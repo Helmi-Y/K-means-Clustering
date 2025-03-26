@@ -1,0 +1,42 @@
+Best Run: 3: SSE = 78.8514
+Best Init SSE: 95.23
+Best # of Iteration: 3
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 622.061
+Best # of Iteration: 6
+Best Run: 5: SSE = 78.8514
+Best Init SSE: 98.87
+Best # of Iteration: 3
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 641.648
+Best # of Iteration: 6
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 99.41
+Best # of Iteration: 3
+Best Run: 2: SSE = 78.8514
+Best Init SSE: 627.031
+Best # of Iteration: 6
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 99
+Best # of Iteration: 4
+Best Run: 2: SSE = 78.8514
+Best Init SSE: 640.423
+Best # of Iteration: 6
+Best Run: 2: SSE = 78.8514
+Best Init SSE: 98.45
+Best # of Iteration: 3
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 639.858
+Best # of Iteration: 6
+Best Run: 3: SSE = 78.8514
+Best Init SSE: 97.93
+Best # of Iteration: 3
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 638.981
+Best # of Iteration: 6
+Best Run: 5: SSE = 78.8514
+Best Init SSE: 92.31
+Best # of Iteration: 3
+Best Run: 1: SSE = 78.8514
+Best Init SSE: 641.158
+Best # of Iteration: 5

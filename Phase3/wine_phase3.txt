@@ -1,0 +1,16 @@
+MinMax normalization, Best Run and SSE, Best Initial SSE, Best # of Iterations
+Random Selection:, Run: 15 SSE = 48.954, SSE: 71.7587, 4
+Random Partition:, Run: 3 SSE = 48.9605, SSE: 92.7524, 5
+MaxiMin Method:, Run: 5 SSE = 48.9854, SSE: 110.012, 4
+ZScore normalization, Best Run and SSE, Best Initial SSE, Best # of Iterations
+Random Selection:, Run: 9 SSE = 1277.93, SSE: 1839.22, 4
+Random Partition:, Run: 2 SSE = 1277.93, SSE: 2229.11, 5
+MaxiMin Method:, Run: 3 SSE = 1279.73, SSE: 2811.35, 4
+MinMax normalization, Best Run and SSE, Best Initial SSE, Best # of Iterations
+Random Selection:, Run: 13 SSE = 48.954, SSE: 68.8066, 4
+Random Partition:, Run: 10 SSE = 48.9605, SSE: 92.7065, 5
+MaxiMin Method:, Run: 1 SSE = 48.9946, SSE: 110.727, 4
+ZScore normalization, Best Run and SSE, Best Initial SSE, Best # of Iterations
+Random Selection:, Run: 6 SSE = 1277.93, SSE: 1821.52, 3
+Random Partition:, Run: 2 SSE = 1277.93, SSE: 2264.81, 5
+MaxiMin Method:, Run: 1 SSE = 1279.73, SSE: 2816.62, 4
