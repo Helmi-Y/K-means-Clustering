@@ -1,0 +1,56 @@
+Calinski Harabasz, (CH)
+Number of cluster: 2,3.28628
+Number of cluster: 3,60.8491
+Number of cluster: 4,52.8372
+Number of cluster: 5,53.7546
+Number of cluster: 6,46.7263
+Number of cluster: 7,42.5859
+Number of cluster: 8,36.9405
+Number of cluster: 9,31.0857
+Number of cluster: 10,24.3968
+Number of cluster: 11,22.3241
+Number of cluster: 12,22.0093
+Number of cluster: 13,21.4842
+Estimated Number of Clutsers: 3,60.8491
+Silhouette Width, (SW)
+Number of cluster: 2,0.54798
+Number of cluster: 3,0.416809
+Number of cluster: 4,0.406874
+Number of cluster: 5,0.433723
+Number of cluster: 6,0.443923
+Number of cluster: 7,0.41662
+Number of cluster: 8,0.40948
+Number of cluster: 9,0.414858
+Number of cluster: 10,0.399729
+Number of cluster: 11,0.405518
+Number of cluster: 12,0.408469
+Number of cluster: 13,0.39473
+Estimated Number of Clutsers: 2,0.54798
+Dunn, (D)
+Number of cluster: 2,0.28017
+Number of cluster: 3,0.00562857
+Number of cluster: 4,0.00363562
+Number of cluster: 5,0.0038092
+Number of cluster: 6,0.0041047
+Number of cluster: 7,0.0041047
+Number of cluster: 8,0.0041047
+Number of cluster: 9,0.00703213
+Number of cluster: 10,0.00636533
+Number of cluster: 11,0.00755602
+Number of cluster: 12,0.00791643
+Number of cluster: 13,0.0032623
+Estimated Number of Clutsers: 2,0.28017
+Davies Bouldin, (DB)
+Number of cluster: 2,0.553183
+Number of cluster: 3,1.33086
+Number of cluster: 4,1.70859
+Number of cluster: 5,1.67714
+Number of cluster: 6,2.2398
+Number of cluster: 7,1.86306
+Number of cluster: 8,1.80475
+Number of cluster: 9,1.66353
+Number of cluster: 10,1.73753
+Number of cluster: 11,1.46472
+Number of cluster: 12,1.48146
+Number of cluster: 13,1.47735
+Estimated Number of Clutsers: 2,0.553183
