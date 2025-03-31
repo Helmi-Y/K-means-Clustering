@@ -442,11 +442,7 @@ double SumDiagonal(const vector<vector<double> >& centers, const vector<vector<d
     //Calculate distance each clusteroid center and dataset center
     for (int k = 0; k < num_cluster; k++) 
     {
-        double dist = 0.0;
-        for (int j = 0; j < dimension; j++) 
-        {
-            dist = SquaredEuclidean(centers[k], overall_mean);
-        }
+        double dist = SquaredEuclidean(centers[k], overall_mean);
         Sb += cluster_sizes[k] * dist;  
     }
 
