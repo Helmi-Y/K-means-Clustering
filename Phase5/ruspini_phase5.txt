@@ -1,0 +1,4 @@
+Validation Method, Best Score, Run #
+Rand Statistic, 1, 0
+Jaccard Coefficient, 1, 0
+Fowlkes–Mallows Measure, 1, 0

@@ -1,0 +1,4 @@
+Validation Method, Best Score, Run #
+Rand Statistic, 0.754444, 62
+Jaccard Coefficient, 0.198882, 71
+Fowlkes–Mallows Measure, 0.338047, 74
